@@ -1,3 +1,3 @@
-# Happify
+## Happify
 
 Happify - A Fitness Application
